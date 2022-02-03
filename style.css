@@ -1,0 +1,27 @@
+#headerTag,#guessSketch,#confidence,#score,#timer{
+font-weight : bold;
+font-style : italic;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 3px;
+}
+
+#sketch_to_be_drawn{
+font-weight : bold;
+font-family: Arial, Helvetica, sans-serif;
+text-shadow : 3px;
+color : red;
+}
+
+#score {
+float : left;
+margin-left:15px;
+}
+
+#timer {
+float : right;
+margin-right : 15px;
+}
+
+#show_sketch{
+float : right;
+}
